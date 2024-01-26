@@ -17,8 +17,10 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.5.2",
+    "lodash-es": "^4.17.21",
     "plus-pro-components": "0.0.1-beta.37",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.5.0",
